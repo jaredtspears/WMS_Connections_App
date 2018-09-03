@@ -1,0 +1,16 @@
+nav, .navbar-brand, h1, h2, h3, h4, h5, {
+    font-family: 'Anton', sans-serif !important;
+}
+
+p, button {
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+/* identifying the difference of the user for in app use via font styling */
+.studentFonts{
+    font-family: 'Indie Flower', cursive;
+}
+.staffFonts {
+    font-family: 'Work Sans', sans-serif;
+}
